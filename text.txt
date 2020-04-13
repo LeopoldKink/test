@@ -1,5 +1,4 @@
 text 1
 tet 2 - geändert
 Text 3
-txt 2 - geändert
 Text 3
